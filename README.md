@@ -24,4 +24,7 @@ I am currently doing an internship at E-business Afrique.
 ---
 [![](https://visitcount.itsvg.in/api?id=Ibrahim KONDO&icon=1&color=1)](https://visitcount.itsvg.in)
 
+
+[about me page](https://about.me/ibraum/)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
