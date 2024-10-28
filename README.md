@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=ibraum&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I am currently doing an internship at E-business Afrique.
 
@@ -13,10 +16,6 @@ I am currently doing an internship at E-business Afrique.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ibraum&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [about me page](https://about.me/ibraum/)
