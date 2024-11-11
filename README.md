@@ -1,6 +1,8 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ibraum&label=&color=1&pretty=false" />
-</a>
+<div>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ibraum&label=&color=1&pretty=false" />
+  </a>
+</div>
 # 💫 About Me:
 I am currently doing an internship at E-business Afrique.
 
