@@ -11,8 +11,6 @@
 - 🧠 J’apprends actuellement **Docker, CI/CD, Pipeline DevOps**  
 - 📱 Je crée des apps **web, mobile**  
 
-<br>
-
 # **Tech Stack**
 
 ### **Frontend**
