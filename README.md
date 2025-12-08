@@ -1,4 +1,6 @@
-<h1 align="start">Hi 👋, I'm Ibrahim KONDO</h1>
+![GitHub GIF](githubgif.gif)
+
+# **Hi 👋, I'm Ibrahim KONDO**
 <p align="start">Full-Stack & Mobile Developer · JavaScript | PHP | Python | Cloud & DevOps Enthusiast</p>
 
 <p align="start">
