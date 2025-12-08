@@ -44,9 +44,6 @@
   <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,postman,sublime,bash,linux" />
 </p>
 
-<br>
-
-
 # **Where to find me?**
 <p>
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
