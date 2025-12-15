@@ -48,7 +48,7 @@
 
 # **Where to find me?**
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ibrahim-kondo"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 # **GitHub Stats**
