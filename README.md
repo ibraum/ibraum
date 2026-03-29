@@ -9,7 +9,7 @@
 
 # **About Me**
 - 🚀 Full-stack developer passionné  
-- 🔥 Je travaille sur du **Nuxt, Next, Laravel, Node…**  
+- 🔥 Je travaille sur du **Nuxt, Vue, Laravel, Node…**  
 - 🧠 J’apprends actuellement **Docker, CI/CD, Pipeline DevOps**  
 - 📱 Je crée des apps **web, mobile**  
 
