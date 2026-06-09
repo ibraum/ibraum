@@ -1,67 +1,44 @@
-![GitHub GIF](githubgif.gif)
+![GitHub GIF](banner.png)
 
-# **Hi 👋, I'm Ibrahim KONDO**
-<p align="start">Full-Stack & Mobile Developer · JavaScript | PHP | Python | Cloud & DevOps Enthusiast</p>
+# Hi 👋, I'm Ibrahim Kondo
 
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimkondo&color=blue" alt="Profile views"/>
+Creative Developer — frontend-first, full-stack capable.
+
+I create thoughtful digital experiences by combining development, design, and storytelling.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ibraum&color=blue" alt="Profile views" />
 </p>
 
-# **About Me**
-- 🚀 Full-stack developer passionné  
-- 🔥 Je travaille sur du **Nuxt, Vue, Laravel, Node…**  
-- 🧠 J’apprends actuellement **Docker, CI/CD, Pipeline DevOps**  
-- 📱 Je crée des apps **web, mobile**  
+### Building with
 
-# **Tech Stack**
+Vue · Nuxt · React · Laravel · Node.js
 
-### **Frontend**
+### Focus
+
+- Frontend Development
+- Backend Development
+- UX/UI Design
+- Design Systems
+- Creative Web Experiences
+
+### Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=vue,react,ts,tailwind,laravel,nodejs,figma" />
 </p>
 
-### **State Management**
+### Connect
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vue" />
-  <img height="48" src="https://pinia.vuejs.org/logo.svg" alt="Pinia" />
+  <a href="https://www.linkedin.com/in/ibrahim-kondo">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,graphql" />
+### GitHub Stats
+
+<p align="left">
+  <img height="220px" src="https://gitmystat.vercel.app/user?theme=dark&username=ibraum" />
+  <img height="220px" src="https://gitmystat.vercel.app/top?theme=dark&username=ibraum&layout=bar" />
 </p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
-</p>
-
-### **Mobile & UI**
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,figma,kotlin" />
-</p>
-
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,postman,sublime,bash,linux" />
-</p>
-
-# **Where to find me?**
-<p>
-  <a href="https://www.linkedin.com/in/ibrahim-kondo"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
-# **GitHub Stats**
-
-### **Profile Card**
-  <img src="https://gitmystat.vercel.app/user?theme=dark&username=ibraum" />
-
-### **Recent Activity**
-  <img src="https://gitmystat.vercel.app/recent?theme=dark&username=ibraum" />
-
-### **Top Languages**
-  <img src="https://gitmystat.vercel.app/top?theme=dark&username=ibraum&&layout=bar" />
-
-
-# **Support Me**
-If you like my work, consider giving a ⭐ to this repository! It helps me a lot. Thank you! 😊
