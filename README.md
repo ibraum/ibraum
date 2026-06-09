@@ -1,6 +1,7 @@
 ![GitHub GIF](banner.png)
 
-# Hi 👋, I'm Ibrahim KONDO a.k.a Ibraum
+### Hi 👋, I'm Ibrahim KONDO
+a.k.a Ibraum
 
 Creative Developer - frontend-first, full-stack capable.
 
