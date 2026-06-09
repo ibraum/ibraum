@@ -1,8 +1,9 @@
 ![GitHub GIF](banner.png)
 
-# Hi 👋, I'm Ibrahim Kondo
+### Hi 👋, I'm Ibrahim KONDO
+a.k.a Ibraum
 
-Creative Developer — frontend-first, full-stack capable.
+Creative Developer - frontend-first, full-stack capable.
 
 I create thoughtful digital experiences by combining development, design, and storytelling.
 
