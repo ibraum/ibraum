@@ -26,7 +26,7 @@ Vue · Nuxt · React · Laravel · Node.js
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,ts,tailwind,laravel,nodejs,figma" />
+  <img src="https://skillicons.dev/icons?i=vue,react,ts,tailwind,laravel,nodejs,figma,blender" />
 </p>
 
 ### Connect
@@ -34,6 +34,9 @@ Vue · Nuxt · React · Laravel · Node.js
 <p>
   <a href="https://www.linkedin.com/in/ibrahim-kondo">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/hey.ibraum">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
