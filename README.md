@@ -21,6 +21,7 @@ Vue · Nuxt · React · Laravel · Node.js
 - Backend Development
 - UX/UI Design
 - Design Systems
+- Brand design
 - Creative Web Experiences
 
 ### Tech Stack
